@@ -25,6 +25,9 @@ Results: 4 >> 1 > 2 ~ 3
 
 ## Moving Forward
 
+1. autoregression model
+2. product satefy
+
 ## Housekeeping Notes
 
 - Checkout branches
