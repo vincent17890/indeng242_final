@@ -25,8 +25,10 @@ Results: 4 >> 1 > 2 ~ 3
 
 ## Moving Forward
 
-1. autoregression model
-2. product satefy
+1. autoregression model: rank_t+3 ~ rank_t+...+rank_t-4 (Zhengdong)
+2. product safety, etc. (Ziyue)
+3. google trend (Nathan)
+4. rank_t+1-rank_t ~ wordvec_t-wordvec_t-1 (Vincent)
 
 ## Housekeeping Notes
 
