@@ -29,6 +29,28 @@ Results: 4 >> 1 > 2 ~ 3
 2. product safety, etc. (Ziyue)
 3. google trend (Nathan)
 4. rank_t+1-rank_t ~ wordvec_t-wordvec_t-1 (Vincent)
+-------------------------------
+[Next time]
+1. pca on word vec / other machine learning methods (Vincent)
+2. google trends with benchmark + models (Nathan)
+3. autoregression model (Zhengdong)
+4. best place to work model (Ziyue)
+
+## Presentation [Next Thursday / Nov. 26]
+
+0. summary (predict brand ranking using word vectors) [Ziyue]
+1. motivation [Ziyue]
+2. data [Nathan]
+  - new york times
+  - interbrand ranking
+  - google trends
+  - 100 best to work (fortune)
+3. models [Zhengdong]
+  - linear regressions
+4. to do [Vincent]
+  - pca on word vector
+  - random forest, etc.
+  - autoregression
 
 ## Housekeeping Notes
 
