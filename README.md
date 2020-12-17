@@ -34,7 +34,7 @@ Results: 4 >> 1 > 2 ~ 3
 1. pca on word vec / other machine learning methods (Vincent)
 2. google trends with benchmark + models (Nathan)
 3. autoregression model (Zhengdong)
-4. best place to work model (Ziyue)
+4. fastest-growing companies model (Ziyue)
 
 ## Presentation [Next Thursday / Nov. 26]
 
@@ -44,7 +44,7 @@ Results: 4 >> 1 > 2 ~ 3
   - new york times
   - interbrand ranking
   - google trends
-  - fastest-growing companies(fortune)
+  - fastest-growing companies (fortune)
 3. models [Zhengdong]
   - linear regressions
 4. to do [Vincent]
