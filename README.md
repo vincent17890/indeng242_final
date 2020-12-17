@@ -44,7 +44,7 @@ Results: 4 >> 1 > 2 ~ 3
   - new york times
   - interbrand ranking
   - google trends
-  - 100 best to work (fortune)
+  - fastest-growing companies(fortune)
 3. models [Zhengdong]
   - linear regressions
 4. to do [Vincent]
